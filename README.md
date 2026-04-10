@@ -33,7 +33,7 @@
 ---
 <div align="center">
 
-## __________ Connect With Me__________
+# ── **CONTACT WITH ME** ──
 
 <p align="center">
 
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-## 🛠️ Tech Stack
+# ── **TECH STACK** ──
 
 
 <p align="center">
@@ -109,7 +109,7 @@
 
 <div align="center">
 
-## 🎯 Current Focus
+# ── **CURRENT FOCUS** ──
 
 <table>
 <tr>
